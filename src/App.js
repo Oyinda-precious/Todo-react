@@ -1,6 +1,7 @@
 // import React from "react";
 import "./App.css";
 import Body from "./Body";
+import Changeinput from "./Changeinput";
 import Classwork from "./Classwork";
 import Home from "./Home";
 import Missedclass from "./Missedclass";
@@ -23,6 +24,7 @@ function App() {
       <TodoApp />
 
       {/* <div>Hello react</div> */}
+      <Changeinput />
     </>
   );
 }
