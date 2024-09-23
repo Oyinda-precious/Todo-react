@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 
 function Changeinput() {
-  const [showing, setshowing] = useState();
+  const [showing, setshowing] = useState(false);
 
   const Change = () => {
     setshowing(!showing);
