@@ -1,0 +1,52 @@
+{
+  "details": [
+    {
+      "id": "3653",
+      "username": "damilola",
+      "email": "damilola@gmail.com",
+      "password": "Damilola@123"
+    },
+    {
+      "id": "a143",
+      "username": "sadeolu",
+      "email": "olusade@gmail.com",
+      "password": "Damilola@123"
+    },
+    {
+      "id": "3d0a",
+      "username": "ayoajiboyeoyin@gmail.com",
+      "email": "blessingoyin@gmail.com",
+      "password": "Oyinda247@"
+    },
+    {
+      "id": "d858",
+      "username": "oyindamola",
+      "email": "bade@gmail.com",
+      "password": "Oyinda247@"
+    },
+    {
+      "id": "18fd",
+      "username": "walee",
+      "email": "walexy@gmail.com",
+      "password": "Wale@245"
+    },
+    {
+      "id": "cdb4",
+      "username": "sertt",
+      "email": "serttt@gmail.com",
+      "password": "Sert@456"
+    },
+    {
+      "id": "298e",
+      "username": "Simisola",
+      "email": "simisola@gmail.com",
+      "password": "Simi_246@"
+    },
+    {
+      "id": "e2b6",
+      "username": "sijugbogo",
+      "email": "gbogo@gmail.com",
+      "password": "Oyinda_247@"
+    }
+  ]
+}

@@ -25,8 +25,13 @@ function SportifyPlaylist() {
 
   return (
     <div className="playlist-grid">
-      {playlists.map((playlist) => (
-       
+      {playlists.map((playlist, index) => (
+        <PlaylistItem
+          key={index}
+          image={playlist.image}
+          title={playlist.title}
+          artists={playlist.artists}
+        />
       ))}
     </div>
   );
